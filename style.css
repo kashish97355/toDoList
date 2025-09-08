@@ -1,0 +1,71 @@
+  #mainContainer{
+    margin-top: 10%;
+    display: flex;
+  }
+  .container {
+  max-width: 800px;    
+  margin: 0 auto;      
+  padding: 30px;        
+  background-color: #f9f9f9;
+  border: 1px solid #242524;
+  border-radius: 10px;
+  border: none;
+}
+button{
+ 
+   float: right;
+   color: rgb(13, 0, 202);
+   margin-top: -70px;
+   margin-right: 50px;
+   padding: 15px;
+   border-radius: 10px;
+   border-color: rgb(42, 45, 209);
+   background-color: rgb(220, 220, 253);
+   cursor: pointer;
+   /* box-shadow: none;  */
+  /* text:size adjust 10px; */
+ 
+}
+.clientReview{
+ 
+  background-color: #ffffff;
+      border: 1px solid #a39f9f;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+      position: relative;
+}
+.CreateFireFrame{
+ 
+  background-color: #ffffff;
+      border: 1px solid #a39f9f;
+      border-radius: 10px;
+      padding: 15px;
+      margin-bottom: 20px;
+      position: relative;
+}
+ 
+.gh {
+   display: flex;
+   gap: 60px;
+   color: #4042bb;
+ 
+}
+p{
+  color: rgb(97, 97, 102);
+}
+input[type="checkbox"] {
+    /* display: end; */
+   width: 20px;
+   height: 20px;
+   accent-color: #0091ca;
+   margin-right: 10px;
+   float: none;
+   /* border: 2px solid #4042bb;
+   border-radius: 50%; */
+   cursor: pointer;
+   position: relative;
+   float: right;
+   border-radius: 50px;
+
+}
